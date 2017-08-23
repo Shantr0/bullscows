@@ -1,0 +1,9 @@
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('admin', 'admin@mail.ru', 'admin', 9);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('admin1', 'admin1@mail.ru', '1', 0);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('Bull', 'bull@lol.ru', '123', 0);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('cheater', 'chater@cheater.com', '1', 1);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('root', 'root@mail.ru', '1', 0);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('user', 'user@mail.ru', '1', 6);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('user1', 'user1@mail.ru', '1', 0);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('user2', 'user2@mail.ru', '666', 0);
+INSERT INTO bullscowsdb.users (name, email, password, rating) VALUES ('usr', 'usr@mail.ru', 'qwerty', 0);
