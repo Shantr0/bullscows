@@ -1,0 +1,13 @@
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('6504', 'admin', '2017-08-16 15:25:29', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('2835', 'admin', '2017-08-16 18:34:03', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('0237', 'user', '2017-08-16 21:25:25', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('8147', 'user', '2017-08-16 21:44:34', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('4206', 'user', '2017-08-16 21:48:01', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('1803', 'user', '2017-08-16 22:07:56', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('7643', 'user', '2017-08-16 22:34:03', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('8507', 'admin', '2017-08-16 22:35:15', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('3521', 'cheater', '2017-08-16 22:48:58', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('1463', 'cheater', '2017-08-16 22:49:21', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('0674', 'cheater', '2017-08-16 22:50:05', 1);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('2803', 'cheater', '2017-08-16 22:55:19', 0);
+INSERT INTO bullscowsdb.sessions (number, userName, date, CLOSED) VALUES ('0536', 'admin', '2017-08-16 23:03:06', 0);
